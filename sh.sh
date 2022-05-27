@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 
+
 touch -c "/home/spurge/myWorkSpace/shellscript/post"/*
 
 grep -Rw "dir*" .
